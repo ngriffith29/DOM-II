@@ -22,7 +22,7 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 * [ ] Navigate to the root of the project with your command line.
 * [ ] Run `npm install` to download any dependencies listed in the `package.json` file.
 * [ ] Run `npm start` to compile your project and launch a development server.
-* [ ] Navigate Chrome to the URL indicated in the output of the `npm start` command.
+* [ x] Navigate Chrome to the URL indicated in the output of the `npm start` command.
 
 ### Task 2a: Create listeners for 10 types of events
 
